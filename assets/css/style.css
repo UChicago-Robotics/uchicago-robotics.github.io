@@ -27,6 +27,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   /*font-family: 'Righteous', cursive;*/
   /*font-family: "Roboto", sans-serif;*/
   font-family: 'Poppins', sans-serif;
+  /*font-family: 'Electrolize', sans-serif;*/
 }
 
 /*--------------------------------------------------------------
@@ -83,6 +84,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 #header .logo h1 {
+  font-family: 'Electrolize', sans-serif;
   font-size: 28px;
   margin: 0;
   padding: 4px 0;
@@ -95,6 +97,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 #header .logo h1 a, #header .logo h1 a:hover {
   color: #fff;
   text-decoration: none;
+
 }
 
 #header .logo img {
@@ -327,7 +330,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   top: 0;
   width: 130%;
   height: 95%;
-  background: linear-gradient(to right, rgba(30, 67, 86, 0.8), rgba(30, 67, 86, 0.6)), url("../img/hero-bg.jpg") center top no-repeat;
+  background: #800000;
+  /*background: linear-gradient(to right, rgba(30, 67, 86, 0.8), rgba(30, 67, 86, 0.6)), url("../img/.jpg") center top no-repeat;*/
   z-index: 0;
   border-radius: 0 0 50% 50%;
   transform: translateX(-50%) rotate(0deg);
@@ -340,7 +344,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   top: 0;
   width: 130%;
   height: 96%;
-  background: #68A4C4;
+  background: #8F3931;
   opacity: 0.3;
   z-index: 0;
   border-radius: 0 0 50% 50%;
