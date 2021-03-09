@@ -151,7 +151,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .navbar a:hover, .navbar .active, .navbar li:hover > a {
-  color: #a2cce3;
+  color: #D6D6CE;
 }
 
 .navbar .dropdown ul {
@@ -185,7 +185,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #68A4C4;
+  color: #D6D6CE;
 }
 
 .navbar .dropdown:hover > ul {
@@ -270,11 +270,11 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 .navbar-mobile a {
   padding: 10px 20px;
   font-size: 15px;
-  color: #1e4356;
+  color: #D6D6CE;
 }
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #68A4C4;
+  color: #D6D6CE;
 }
 
 .navbar-mobile .getstarted {
@@ -306,7 +306,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #68A4C4;
+  color: #767676;
 }
 
 .navbar-mobile .dropdown > .dropdown-active {
@@ -404,11 +404,11 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #68A4C4;
+  border: 2px solid #767676;
 }
 
 #hero .btn-get-started:hover {
-  background: #68A4C4;
+  background: #767676;
   color: #fff;
   text-decoration: none;
 }
