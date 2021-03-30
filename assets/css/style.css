@@ -2152,7 +2152,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #0b212d;
+  background: #8F3931;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
@@ -2160,7 +2160,7 @@ section {
 
 #footer .footer-newsletter {
   padding: 50px 0;
-  background: #0d2735;
+  background: #8F3931;
 }
 
 #footer .footer-newsletter h4 {
@@ -2169,7 +2169,7 @@ section {
   padding: 0;
   line-height: 1;
   font-weight: 600;
-  color: #a2cce3;
+  color: #8F3931;
 }
 
 #footer .footer-newsletter form {
@@ -2207,7 +2207,7 @@ section {
 }
 
 #footer .footer-top {
-  background: #0d2735;
+  background: #8F3931;
   border-top: 1px solid #17455e;
   border-bottom: 1px solid #123649;
   padding: 60px 0 30px 0;
@@ -2250,7 +2250,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #68A4C4;
+  background: #8F3931;
   color: #fff;
   text-decoration: none;
 }
@@ -2298,7 +2298,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #a2cce3;
+  color: #8F3931;
 }
 
 #footer .footer-top .footer-contact {
